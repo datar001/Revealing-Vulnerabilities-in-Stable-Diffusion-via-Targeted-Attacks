@@ -1,0 +1,4 @@
+/home/zcy/attack/diffusion_outputs/style/animation
+/home/zcy/attack/diffusion_outputs/style/oil painting
+/home/zcy/attack/diffusion_outputs/style/sketch
+/home/zcy/attack/diffusion_outputs/style/watercolor

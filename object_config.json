@@ -1,0 +1,17 @@
+{
+    "add_suffix_num": 5,
+    "replace_type": [],
+    "synonym_num": 10,
+    "iter": 500,
+    "lr": 0.1,
+    "weight_decay": 0.1,
+    "loss_weight": 1.0,
+    "print_step": 100,
+    "batch_size": 1,
+    "clip_model": "laion/CLIP-ViT-H-14-laion2B-s32B-b79K",
+    "prompt_path": "simple_prompt.txt",
+    "task":"object",
+    "forbidden_words": "./referenced_images/objects/forbidden_words.txt",
+    "target_path":"./referenced_images/objects/target_object.txt",
+    "output_dir": "../runs/attack/formal_experiment/object/submit_test"
+}

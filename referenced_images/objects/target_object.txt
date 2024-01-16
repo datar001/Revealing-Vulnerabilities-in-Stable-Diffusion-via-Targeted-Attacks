@@ -1,0 +1,10 @@
+/home/zcy/attack/diffusion_outputs/objects/cock
+/home/zcy/attack/diffusion_outputs/objects/toucan
+/home/zcy/attack/diffusion_outputs/objects/mushroom
+/home/zcy/attack/diffusion_outputs/objects/panda
+/home/zcy/attack/diffusion_outputs/objects/peony
+/home/zcy/attack/diffusion_outputs/objects/pizza
+/home/zcy/attack/diffusion_outputs/objects/tractor
+/home/zcy/attack/diffusion_outputs/objects/vampire
+/home/zcy/attack/diffusion_outputs/objects/warplane
+/home/zcy/attack/diffusion_outputs/objects/zombie

@@ -1,0 +1,10 @@
+cock,rooster,chicken
+toucan
+mushroom
+panda
+peony
+pizza
+tractor
+vampire
+warplane
+zombie
