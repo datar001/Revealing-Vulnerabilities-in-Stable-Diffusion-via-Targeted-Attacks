@@ -50,3 +50,16 @@ Config has the following parameters:
 - `target_path`: The file path of referenced images.
 - `output_dir`: The path for saving the learned adversarial prompts.
 
+## Citation
+
+If you find the repo useful, please consider citing.
+
+```
+@article{zhang2024revealing,
+  title={Revealing Vulnerabilities in Stable Diffusion via Targeted Attacks},
+  author={Zhang, Chenyu and Wang, Lanjun and Liu, Anan},
+  journal={arXiv preprint arXiv:2401.08725},
+  year={2024}
+}
+```
+
